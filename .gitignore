@@ -1,3 +1,4 @@
-top
-generator
+^top\/top$
 tmp*
+input*
+output*
